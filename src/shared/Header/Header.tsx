@@ -146,7 +146,7 @@ export function Header() {
         </button>
         <Select />
       </div>
-      {isError && (
+      {/* {isError && (
         <div className={styles.errorContainer}>
           <div className={styles.errorContainerInfo}>
             <h2 className={styles.errorContainerInfoTitle}>Sorry!!!</h2>
@@ -154,7 +154,7 @@ export function Header() {
             <h2 className={styles.errorContainerInfoTitle}>Try to come tomorrow</h2>
           </div>
         </div>
-      )}
+      )} */}
     </div>
   );
 }
