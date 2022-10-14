@@ -1,0 +1,23 @@
+.temperIcon {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.pressureIcon {
+    position: absolute;
+    top: 7px;
+    left: 8px;
+}
+
+.precipitationIcon {
+    position: absolute;
+    top: 6px;
+    left: 0;
+}
+
+.windIcon {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+}
