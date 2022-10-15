@@ -1,7 +1,7 @@
 .layout {
     position: relative;
     width: 100%;
-    height: 100vh;
+    height: 150vh;
     background-image: url("../../assets/images/volfgangzee.jpg");
     background-size: cover;
     filter: var(--UIgrey);

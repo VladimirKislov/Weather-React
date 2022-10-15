@@ -33,6 +33,7 @@ export function Select() {
     "Sydney",
     "Tokyo",
     "Toronto",
+    "Ubud",
     "Venice",
     "Vienna",
     "Vilnius",
